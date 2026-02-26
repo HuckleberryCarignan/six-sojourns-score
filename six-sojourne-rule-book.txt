@@ -1,0 +1,595 @@
+rule book
+
+
+
+Introduction
+Your goal in Six Sojourns is to grow your family and broaden their
+influence. Players take turns selecting a card from five on display. Each
+card has actions that let players build houses, gain ships, move, and
+gain new family members.
+The cards also have special abilities and sets of icons that represent
+your family’s expertise in various trades: cooking, carpentry, sewing,
+shoe-making, art, blacksmithing, and jewelry. Each game, you only
+select nine cards, and you’ll be faced with crunchy choices each turn as
+you focus on trades, abilities, or the map.
+Customize Your Game
+Six Sojourns includes small expansions that you can add to the game
+that have unique components and rules. You can combine any of them
+in different ways to keep the game constantly fresh.
+When setting up the game, you combine the base cards with the expan-
+sion-based cards, depending on the expansion you choose.
+•
+•
+•
+•
+PLACES focuses on controlling specific places on the map. Each
+map has its own set of cards indicated by letter: A, B, C, etc.
+TRADES TOKENS adds valuable trades tokens on the map that
+you can claim.
+SPECIALTIES adds new cards to the deck with trades-focused
+objectives.
+UPGRADES adds cards that allow players to increase or reduce
+the value of sets for all players!
+•
+SEA SERPENTS adds sea serpent tokens and cards
+to the game, which players can place on sea spaces to
+collect coins from other players and increase the value
+of sea spaces.
+•
+•
+•
+•
+•
+•
+VALUES gives value cards to players, with special abilities and
+objectives unique to each player.
+FEUDS makes contested spaces worth more points.
+EXPLORATION adds explore tokens to the map that players
+can claim to gain bonuses.
+MOUNTAINS adds mountain tokens, which create new obstacles
+on the board.
+SHRINES add shrine tokens, which players can build to increase
+the value of spaces on the board.
+AIRSHIPS adds a airship tokens that lets you move to any space
+on the board!
+Six Sojourn Campaign
+You can play the game in standalone sessions or a campaign of six
+games! When playing a campaign, use a new combination of expansions
+each game, adding new rules and depth to the game. Track your score
+each game and add up the total at the end to determine a campaign
+winner! The recommended sojourns for a first campaign are:
+SOJOURN 1: “Enchanting Sites”
+Places A
+SOJOURN 2: “Learn from the Masters”
+Places B and Trades Tokens
+SOJOURN 3: “Golden Age”
+Any map, Trades Tokens and Specialties
+SOJOURN 4: “Wild Rumors”
+Places B, Trades Tokens, and Upgrades
+SOJOURN 5: “Unknown Paths”
+Places A, Exploration, and Sea Serpents
+SOJOURN 6: “Feuding Families”
+Places B, Exploration, Values, Sea Serpents, FeudsComponents
+One-value Coins (30)
+Five-value Coins (18)
+Upgrade Tokens (10)
+Explore Tokens (20)
+Trades Tokens (2 of each)
+3
+Cards (90), including:
+•
+Base Cards (37)
+•
+Places Expansion Cards (18)
+•
+Specialties Expansion Cards (11)
+•
+Upgrades Expansion Cards (10)
+•
+Sea Serpents Expansion Cards (9)
+•
+Values Expansion Cards (4)
+•
+Feuds Card (1)
+(The expansion name is on the bottom
+left of each card face.)
+Double-sided Game Board (Map A is pictured and
+Map B is on the other side.)
+Sea Serpent Tokens (8)
+Mountain Tokens (8)
+Score Pad
+Shrine Tokens (12)
+Airship Tokens (2)
+4 sets of Wooden Pieces in 4 colors. Each set in-
+cludes: 35 People, 12 Boats, 8 Houses, and 3 Towers.
+Economy, Volcano, Simultaneous, and Solo mode components
+are listed on pages 12-15. Use the tuck boxes to organize cards and
+cardboard. Store wooden and metal components in bags.4
+Setup
+1. Place the game board in the center of the table. Place the coin tokens in a supply nearby.
+2. Shuffle the base cards and place them near the board. Base cards have no label in the bottom
+left corner on the faces.
+3. Choose your expansions and collect the components for the chosen expansions. You may
+choose to play with no expansions but it is recommended to play with at least 1. Setup instruc-
+tions for each expansion are listed below:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+PLACES: Shuffle the expansion cards with the “Places” label and letter matching your
+chosen map in with the base cards. If map A, use cards “Places A”, etc.
+TRADES TOKENS: Shuffle the trades tokens in the box lid and place them on the map
+in various regions. No region can contain more than 1 token, but you can place them
+anywhere, even in sea spaces.
+SPECIALTIES: Shuffle the cards with the “Specialties” label into the base cards.
+UPGRADES: Shuffle the cards with the “Upgrades” label into the base cards. Place the
+upgrade tokens next to the board.
+SEA SERPENTS: Shuffle the cards with the “Sea Serpents” label into the base cards. Place
+the sea serpent tokens next to the board.
+VALUES: Shuffle the value cards face down and deal 1 to each player. Each player places
+their value card face up in front of them.
+FEUDS: Place the feud card near the board. Choose the Feuds side or the Fierce Feuds side.
+EXPLORATION: Shuffle the explore tokens face down and place them face down on the
+map in various regions. No region can contain more than 1 token, but you can place them
+anywhere, even in sea spaces.
+MOUNTAINS: Place mountain tokens on land spaces on the board, preferably on spaces
+with rocky or mountain art. No space should contain more than 1 mountain token.
+SHRINES: Give each player 3 shrine tokens. They place these in a supply next to their
+wooden pieces.
+•
+AIRSHIPS: Place the airships on any 2 different land spaces on the board.
+Base cards have no
+label here.
+Cards have the
+expansion name
+here.
+Map A4. Give each player 12 coins. Give each player a set of wooden pieces in 1
+color.
+5. Place the card deck near the board and draw 1 card for each card slot
+along the side of the board. Each slot indicates the cost of each card.
+6. Use a method to randomly determine 1st player. Play goes in clock-
+wise order, starting with the first player. Each player must now return
+to the box a number of wooden tower pieces based on turn order. The
+LAST PLAYER always returns all towers. Each player retains 1 tower
+for each player AFTER THEM in turn order.
+For example, if playing with 3 players, the 1st player would keep 2 tow-
+ers, the 2nd player would keep 1 tower, and the 3rd player would keep
+no towers. In a 2-player game, the 1st player would keep 1 tower and the
+2nd player would keep no towers. Etc.
+7. Choose a starting space on the board. It can be any land space, but it
+is recommended that the space be on the largest island and be next to a
+sea space. Each player places 1 house and 2 people on this space.
+Place any unused components in the box.
+You are now ready to play.
+This is a sea space (separated
+from other sea spaces by
+dotted lines) and cannot be
+the starting space.
+This is a good
+starting space.
+56
+How to Play
+Starting with the 1st player, players take turns in clockwise order
+until all players have had 9 turns. It’s easy to keep track of this
+because each turn, a player selects 1 card to keep. Once all players have
+9 cards, the game ends, you count victory points, and the player with
+the most wins.
+Turn
+On your turn, perform the following steps: first purchase a card from
+the row, then take actions.
+Purchase a Card
+You MUST purchase 1 card from the card row. There are 5 available
+to choose from, and the price of each card is listed on its slot on
+the board, from 0 to 4. Pay the indicated coins to the supply and
+place the card face up in front of you. If you have no coins left, you
+MUST choose the 0-cost card.
+Each card gives you 1 or more trade icons, which are worth victory
+points at the end of the game. Most cards also have a special ability,
+which is active as soon as you place the card in front of you.
+After you’ve taken your card, fill in the gap by sliding down cards to-
+ward the 0-cost. Then draw a new card to fill in the empty 4-cost slot.
+This card
+costs 4 coins.7
+Action
+Now perform the actions on your new card. You can perform actions IN ANY
+ORDER. You may even split move actions between other actions. For example,
+if the card says 3 move and build 1 boat, you could move a person 1 space, build a
+boat, then move the boat 2 spaces.
+You may choose to ignore any actions if you do not wish to take them. If you
+run out of pieces to place, you cannot place any more.
+The actions are described below:
+This card
+lets you gain
+5 people.
+Gain People
+Place people on any space where one of your houses is located. You may split
+people up between houses. You must place all people before the end of your turn.
+Build a House
+You may place a house on a land space that contains at least one of your people
+and NO OTHER HOUSES. The starting space contains one house from each
+player, but players cannot build houses in spaces that already have houses during
+the game.
+If you do not yet want to build the house, you may “store” the house token on
+the card to save for a future turn. When taking actions on a future turn, you can
+place any “stored” houses from previous turns.
+Build a Boat
+You may place a boat on a sea space that is adjacent to a land space that has at least
+one of your people. Houses do not count; it must be a person.
+If you do not yet want to build the boat, you may “store” the boat token on the
+card to save for a future turn. When taking actions on a future turn, you can place
+any “stored” boats from previous turns.
+This card lets you build
+1 boat, gain 1 person, and
+move 3, in any order.
+This card lets you
+move 3 and build 1
+house, in any order.8
+Move
+You may perform the indicated number of move actions, split between
+any people and/or boats.
+On the map, adjacent land spaces are separated by white lines. Sea spaces
+are separated by dotted lines.
+A move action consists of choosing one space on the board and moving
+any number of your people (or boats) there to an adjacent space. Peo-
+ple must move to land spaces and boats must move to sea spaces.
+For example, if you have a 1-move action, you could move 6 people
+from one space to an adjacent space.
+CROSSING A SEA: You can move a group of people across a sea if
+there is a boat there. To cross the sea, choose a group of people on a
+land space adjacent to a sea space that has a boat. Then move the group
+to ANY land space that is adjacent to that sea space.
+If the boat is yours, this costs nothing, but if the boat belongs to
+another player, you must pay them a coin (and they cannot decline
+this). You must pay 1 coin per move action. For example, if you move
+3 people to an island and another group of 2 to a different island using
+the same boat, you would pay 2 coins.
+You cannot move people through multiple boats with 1 move action
+(moving through adjacent sea spaces with 1 move).
+Crossing a sea costs 1 movement.
+4
+3
+2
+1
+Example: You have 4 movement. You first spend 2 movement to move
+1 person north 2 spaces to join another person that was already there.
+Then you cross the sea, using your boat to move the 2 people together
+to another island, which costs 1 movement point. With your last move-
+ment point, you move the boat north 1 sea space.Towers
+At the end of your 9th turn, you may place all towers you have. You
+may place a tower in a space you control, and it locks in your control
+for the rest of the game. Even if a player moves more people into the
+space and gains more control, if you have a tower there, you automat-
+ically control it. You CANNOT place towers on spaces that you do
+not control.
+Game End
+When all players have 9 cards, the game ends. Players count victory
+points for the following:
+Spaces
+Each space you control is worth 1 victory point. To control a space,
+you must have more people or boats there than any other player. For
+example, if you have 2 people and 2 other players only have 1 each, you
+control the space. When determining control, each house you have on
+a space is worth 2. So if you have a house on a space and another player
+only has 1 person, you control it. To control sea spaces, you must have
+more boats there than any player. If you’re tied for control of a space,
+no one controls it and no one earns points for it.
+Islands
+If you control more spaces on an island than any player, you gain 1
+victory point. Even if a land mass is not completely surrounded by
+water on the map, it is still considered an island. For example, map A
+has a total of 9 islands.
+9
+Trades
+You also gain victory points if you have enough of each type of trade
+on your cards (and tokens if playing with sojourn 2). Calculate your
+points for each trade type: cooking, carpentry, sewing, shoe-making,
+art, smithing, and jewelry.
+For example, if you have at least 5 cooking, you gain 4 points. If you
+have 9 or more cooking, you INSTEAD gain 7 points (4 or 7, not
+both). If you have fewer than 4 cooking, you gain 0 points.
+Card Victory Points
+Many cards have victory point objectives. If you meet the require-
+ments listed on the card, you gain the specified victory points. These
+are described further on page x.
+Add all these points together. The player with the most victory
+points wins! Coins are worth no victory points (unless you have an
+ability that gives points for coins, or are playing with an expansion
+that changes this rule). However, if players are tied for most
+victory points, the player with the most coins wins the tie.10
+Card Abilities
+Many cards have victory point objectives or other abilities.
+Objectives
+Objectives award victory points at the end of the game if you meet the
+requirements. If you only partially meet the requirements, you do not
+gain the victory points.
+For example, if you have this card, you
+must have 3 or more houses on the
+board to complete it. If you do, you gain 3 points at the end of the
+game.
+If you have this card, you must have at
+least 7 cooking icons (on cards you own
+and trades tokens you have) to gain 3 points at the end of the game.
+Abilities
+Cards with abilities take effect as soon as you buy the card.
+The card with this ability gives you 1
+coin at the start of each of your turns.
+It does not apply on the turn you buy it, because you gain it after the
+start of your turn.
+The card that says, “You may build houses on spaces that contain
+houses,” still requires you to build the house where you have at least 1
+person.
+To gain a bonus “when you build” something, you must
+place it on the map. Storing a house or boat does not
+count as building.
+The card that says, “You may move your houses,” allows you to move
+houses as if they were people. They may move over sea spaces. Your
+houses may not move into spaces that already contain houses.
+If you have both of the above cards, you may move houses into spaces
+that already contain houses.
+The card that says “Gain 1 house when you buy a 4-cost card,” does not
+trigger itself, but activates every card purchased after it that costs 4
+coins.
+Expansion Rules
+Specific rules for each expansion are explained below.
+Places
+Cards with specific place objectives reward
+victory points if you control the space with
+the pictured landmark at game end.
+Trades Tokens
+If you control a space with a trades token
+at the end of the game, claim the token and
+add it to your trades total when calculating
+victory points. If tied, no one claims the token.
+Specialties
+To complete an objective like this, you
+must have at least the specified number
+of trades (combined). For example, in this case, you could achieve this
+objective if you had 3 sewing and 4 shoe-making.Upgrades
+When you claim a card that says
+“Upgrade a Trade,” you must imme-
+diately place an upgrade token in a slot next to one type of trade. You
+may choose any unused upgrade token. The value on the token in-
+creases, or decreases, the victory point value of that trade at the end of
+the game (for ALL PLAYERS). The token applies to both the 4 and 7
+victory point amounts. Each trade may have up to 2 upgrade tokens.
+Sea Serpents
+When you claim a card that says
+“Place a Sea Serpent,” you must
+immediately place a sea serpent token on a sea space. Each player that
+has at least 1 boat in the space must immediately pay you 1 coin (if
+they have no coins, they pay nothing). At the end of the game, each
+sea serpent gives 1 victory point to the player that controls its space.
+Sea spaces may contain any number of sea serpents.
+Values
+Each value gives a player a special ability and an ability that gives
+them extra victory points at the end of the game.
+Feuds
+When playing with this rule, each space you control that has at least
+one piece from another player is worth +1 victory point. Even if there
+are multiple players there, the point bonus is never more than +1.
+You can also choose to play with Fierce Feuds (the opposite side of
+the card), where the victory point reward increases to +2 per space that
+you control that has at least one piece from another player.
+11
+Exploration
+During setup, shuffle the exploration tokens and place them randomly,
+face down, on spaces on the map, including water spaces. Each space
+may not have more than 1 explore token. When playing, if you have
+at least 1 person on a space with an explore token, you may spend 1
+movement point to claim the explore token. Turn it face up and place
+it in front of you. If it is a person, you must place the person imme-
+diately. If it is a trade, keep it for the end of the game. If it is coins,
+gain the coins immediately. If it is a boat or a house, you can build it
+immediately OR save it for a later turn (place the boat or house on
+the explore token until placed on the board).
+Mountains
+Spaces with mountain tokens are harder to enter. When moving into
+a space with a mountain token, you can only move 1 person at a time.
+For example, if you want to move 3 people into an adjacent space with
+a mountain, you must use 3 movement points. Each space you control
+with a mountain token at the end of the game is worth +1 victory
+point.
+Shrines
+On your turn, you may place 1 shrine on the board where you have a
+person AND there is at least 1 person or house belonging to another
+player. At the end of the game, each shrine gives 1 victory point to
+the player that controls the space. A space may contain any number of
+shrines.
+Airship
+When starting on a space with an airship token, you may
+pay 1 coin to move 1 group to any land space on the board
+for 1 movement point. Do not move the airship token when
+you do this. (The airship always returns to its dock.)12
+Volcano and Economy Expansions
+Components
+36 ten-value coins, volcano piece, 25 lava pieces, 6 extra houses per col-
+or, 15 extra people per color, 4 extra boats per color, 5 square markers in
+each color, 4 economy boards, 36 cards
+Volcanoes
+During setup, place lava tokens near the cost-1 and
+cost-0 cards near the board. If playing on a map
+that does not have a volcano, place the volcano
+token on any land space on the map. Whenever a
+player purchases a cost-1 or cost-0 cards, they must
+immediately place a lava token on the volcano
+space, a land space that already has a lava token, or
+a land space adjacent to a lava token. Lava tokens
+act as neutral control; to control a space with lava
+tokens, you must have more people (and houses,
+which are worth 2) than there are lava tokens.
+Note: This
+clay pot is an extra
+token and you
+may throw it away
+or use it for home
+brew variants.
+Economy
+To play with this expansion, add 6 extra houses,
+4 extra boats, and 15 extra people to each player’s
+supply. Each player should have a total of 50 people, etc. You must
+also play with 2 maps, instead of 1. Place the maps side by side in the
+center of the table. Choose a starting space on each map. Each player
+places a house and 2 people ON EACH starting space.
+When setting up the card deck, it must have at least 60 cards, so add
+expansions as necessary to reach this number. If using the
+PLACES expansion, be sure to add the cards for each map.
+During setup, give each player an economy board and track tokens.
+Each player must place all their houses (except the starting houses) on
+the house track on the board, and the remaining track tokens on the
+spaces furthest to the left on each track. Each player only starts with 4
+coins, instead of 12.
+On your turn, when you buy a card, place it on the LEFT side of your
+player board. After you finish taking the card actions, you may choose
+to DEVELOP any cards on the left of your board. You can choose
+any number of cards that have not been developed. Note the trade
+icons on the cards and “spend” these icons to move up the tracks on
+your economy board, moving tokens on tracks to the right. Each icon
+can only be used once when moving up the tracks. Place the developed
+cards on the RIGHT side of your player board. When you reach the
+end of a track, place the piece off to the right of the track edge.
+For example, to move on the track above, you would need to develop
+cards with at least 1 shoe-making and 1 cooking. This track would
+currently give you 1 coin at the end of the round (because there is 1
+coin icon to the left of the track token).
+At the end of each of your turns, collect coins. Collect coins from
+uncovered spaces on your house track, and coins for each space to the
+left of your track tokens on each trade track.When taking actions, you may split the actions between the 2 maps.
+You may not travel BETWEEN the maps; they are not connected.
+But you can split movement between the maps. For example, if you
+have 4 movement, you can use 2 move actions on the first map and 2
+on the second.
+Card objectives with map-based requirements only need to be fulfilled
+on 1 of the 2 maps. For example, if you have the card that says “3 VP
+if you control 2+ islands,” you only need to control 2 or more islands
+on 1 of the maps. If you have the card that says, “4 VP if all your
+controlled spaces are contiguous,” they need only be contiguous on
+1 map. If you have the card that says, “3 VP if you control more sea
+spaces than any player,” you must only control more sea spaces than
+any player on 1 of the maps.
+The game ends when all players have collected 14 cards (instead of9). At
+the end of the game, count victory points for trades as normal for ALL
+of your cards (whether they be on the left or right of your board).
+Also gain victory points for all coins you have according to the chart
+on the bottom of your economy board. For example, if you have 95
+coins, you would gain 25 points.
+13
+Expansion Maps
+Components
+3 game boards (double-sided), 54 places cards (9 cards per map)
+See the map designations on page 15. Specific rules for maps are ex-
+plained below.
+Map D (Jungle 4x)
+On this map, players do not share a starting space. They each start on
+a different corner island on the map. During setup, in turn order, each
+player places their starting house and 2 people on one of the spaces on
+a different corner island.
+Map F (Trade Isles)
+On this map, at the end of the game, the player that controls more
+sea spaces than any player gains 4 victory points. If players are tied for
+control of most sea spaces, both players gain the victory points.
+Map G (Lakes)
+Instead of islands, there are lakes on this map. When a card objective
+includes the word “island,” replace it with the word “lake.” Each lake
+you control is worth 4 extra points (to control a lake, you must con-
+trol the most spaces in the lake). Consider all land spaces as part of one
+big island (and control of the most land spaces gives you 1 extra point).14
+Simultaneous Mode
+Components
+4 player cost tokens, 1 1st player token
+When setting up the game, deal a hand of four cards
+to each player. Players may not look at these cards or
+change the order. Also, give each player a
+hand cost token. Place the 1st player token
+near the board. Players start the game with
+no towers.
+Game Rounds
+During the game, instead of purchasing from a card row, players
+simultaneously select cards from their hands. This is accomplished by
+playing 9 game rounds, executed in the following manner:
+1. Each round, the first player counts to 3, then all players simultane-
+ously look at the cards in their hand. Each player then selects a card
+they would like to purchase. The cost of each card is specified on the
+cost token. The top card (facing the player) is free. The second card
+costs 1, third costs 2, and fourth costs 3. When a player chooses a card,
+they declare out loud which one they’ve selected and place it face down,
+on the table in front of them. For example, “Second card!” The player
+then pays an amount of coins equal to the cost of the card. The player
+who declares their card first claims the 1st player token.
+2. When all players have chosen a card, the player with the 1st Player
+token decides who will take their turn first.
+3. Players take turns in clockwise order. On a player’s turn, they reveal
+their chosen card and perform the actions as if it were a standard game
+turn.
+4. After all players have completed their card actions, each player draws
+one card from the deck and adds it to the back of their pile of uncho-
+sen cards (their hand). Each player then passes the hand of cards to the
+player on their left (there should always be 4 cards to choose from, if
+possible).
+Towers on the 9th Turn
+On the 9th turn, after the 1st player chooses who will go first, dis-
+tribute the players’ towers according to turn order (last player gets no
+tower, second-to-last gets 1 tower, etc.).Solo Mode
+Components
+14 rival cards
+Overview
+Play vs. a simulated opponent called the “rival”. The rival starts with many
+pieces already on the board, and it can gain more pieces throughout the game.
+The rival collects cards and scores victory points as a normal player, but does
+not collect coins and does not need to pay coins for anything. When the
+rival gains pieces on the board during the game, it does not follow normal
+placement rules.
+You can mix and match expansions, except for the following, which cannot
+be used in solo mode: Sea Serpents, Upgrades, Values, Shrines, Volcano, and
+Economy.
+SETUP: Shuffle the 10 rival cards and place 1 rival card above each standard
+card in the row so that there are 2 rows of cards. Place the deck of rival
+cards next to the deck of standard cards, face down. Decide the rival’s level of
+difficulty: easy, medium, or hard.
+Choose a color of pieces for the rival. The rival starts with a house and 2
+people on the starting space as normal. Additionally, place 3-5 more rival
+houses on the map depending on the rival’s difficulty.
+EASY 3 more houses (total of 4)
+MEDIUM 4 more houses (total of 5)
+HARD 5 more houses (total of 6)
+Place these extra houses on 1 space on each island that isn’t the starting island
+until you reach the difficulty’s total. If there aren’t enough islands, place the
+houses on spaces that either contain a trades token or are objectives on the
+places cards (if playing with these expansions). Note: If you want a harder
+game, place houses on spaces with many neighboring spaces. If you want an
+easier game, place houses on spaces with as few neighboring spaces as possible.
+15
+Place 1 rival boat in each sea space on the board. If there are not enough
+boats to place in each space, choose spaces that have trades tokens first.
+Place 1 rival person in each land space adjacent to spaces that contain rival
+houses.
+Instructions
+Each turn, when you claim a card, also claim the corresponding rival card
+(above the card you claim). After completing your actions and refilling the
+card market, consult the claimed rival card to take the rival’s turn. The rival
+card tells you to claim a standard card from the row, and may give additional
+instructions.
+When a rival claims a card from the row, do not perform any of the actions
+on the card. Only follow the action instructions on the rival card. The rival
+merely claims cards for their trades icons and victory point objectives. The
+rival ignores all other abilities on cards.
+When you’ve completed the instructions on the rival card, discard it and slide
+down the rival row, drawing a new card for the 4-cost slot.
+Follow the instructions on the rival cards as if you were the rival. When it
+says “you,” it means the rival. When it says “the player,” it means the rival’s
+human opponent (you).
+The rival instructions sometimes use the term SPARE PIECE, which means
+any boat or person on a space not needed to control it. For example, if the
+rival has 3 pieces on a space and you have 1 piece on the same space, the rival
+has 1 spare piece there, because it only needs 2 to control it.
+HARD MODE: If any instructions have this label, only complete them
+when playing hard mode. Ignore them if playing easy or medium.
+If the rival is unable to perform the specified actions, ignore them.
+PLAYER ADVANTAGE: In all cases, when performing a
+rival action, if there are multiple possibilities, you (the player)
+chooses.
