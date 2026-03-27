@@ -48,17 +48,19 @@ enum ScoreCategory: String, CaseIterable, Identifiable, Codable {
     /// Hint shown in the entry screen footer for trade categories.
     var tradeThresholdHint: String? {
         guard scoringType == .trade else { return nil }
-        return "< 4 icons = 0 VP  •  4–8 icons = 4 VP  •  9+ icons = 7 VP"
+        let cfg = defaultTradeVPConfig
+        return "< \(cfg.midThreshold) icons = 0 VP  •  \(cfg.midThreshold)–\(cfg.highThreshold - 1) icons = \(cfg.midVP) VP  •  \(cfg.highThreshold)+ icons = \(cfg.highVP) VP"
     }
 
     /// Calculate VP from the raw input value stored in Player.
-    func victoryPoints(for rawInput: Int) -> Int {
+    func victoryPoints(for rawInput: Int, config: TradeVPConfig? = nil) -> Int {
         switch scoringType {
         case .direct:
             return rawInput
         case .trade:
-            if rawInput >= 9 { return 7 }
-            if rawInput >= 4 { return 4 }
+            let cfg = config ?? defaultTradeVPConfig
+            if rawInput >= cfg.highThreshold { return cfg.highVP }
+            if rawInput >= cfg.midThreshold { return cfg.midVP }
             return 0
         }
     }
@@ -76,6 +78,34 @@ enum ScoreCategory: String, CaseIterable, Identifiable, Codable {
         case .jewelry:   return "sparkles"
         case .cardVP:    return "rectangle.on.rectangle"
         case .expansion: return "star.fill"
+        }
+    }
+
+    /// The default trade VP config for this category (unique thresholds per trade good).
+    var defaultTradeVPConfig: TradeVPConfig {
+        switch self {
+        case .cooking:    return TradeVPConfig(midThreshold: 5, highThreshold: 9, midVP: 4, highVP: 7)
+        case .carpentry:  return TradeVPConfig(midThreshold: 5, highThreshold: 8, midVP: 4, highVP: 7)
+        case .sewing:     return TradeVPConfig(midThreshold: 5, highThreshold: 7, midVP: 4, highVP: 7)
+        case .shoemaking: return TradeVPConfig(midThreshold: 4, highThreshold: 6, midVP: 4, highVP: 7)
+        case .art:        return TradeVPConfig(midThreshold: 4, highThreshold: 5, midVP: 4, highVP: 7)
+        case .smithing:   return TradeVPConfig(midThreshold: 3, highThreshold: 5, midVP: 4, highVP: 7)
+        case .jewelry:    return TradeVPConfig(midThreshold: 3, highThreshold: 4, midVP: 4, highVP: 7)
+        default:          return .defaultConfig
+        }
+    }
+
+    /// Asset catalog image name, if a custom icon exists for this category.
+    var imageName: String? {
+        switch self {
+        case .cooking:    return "cooking"
+        case .carpentry:  return "carpentry"
+        case .sewing:     return "sewing"
+        case .shoemaking: return "shoemaking"
+        case .art:        return "art"
+        case .smithing:   return "smithing"
+        case .jewelry:    return "jewelry"
+        default:          return nil
         }
     }
 }
@@ -103,8 +133,8 @@ struct Player: Identifiable, Codable {
     }
 
     /// The calculated victory points for this category.
-    func victoryPoints(for category: ScoreCategory) -> Int {
-        category.victoryPoints(for: rawInput(for: category))
+    func victoryPoints(for category: ScoreCategory, config: TradeVPConfig? = nil) -> Int {
+        category.victoryPoints(for: rawInput(for: category), config: config)
     }
 
     mutating func setRawInput(_ value: Int, for category: ScoreCategory) {
@@ -119,6 +149,17 @@ struct Player: Identifiable, Codable {
 
 // MARK: - Game Model
 
+/// Stores the VP values and icon thresholds for a trade category.
+struct TradeVPConfig: Codable, Equatable {
+    var midThreshold: Int  // minimum icons for mid VP
+    var highThreshold: Int // minimum icons for high VP
+    var midVP: Int         // VP awarded at mid threshold
+    var highVP: Int        // VP awarded at high threshold
+
+    /// Generic fallback — each category should use its own default via ScoreCategory.defaultTradeVPConfig.
+    static let defaultConfig = TradeVPConfig(midThreshold: 5, highThreshold: 9, midVP: 4, highVP: 7)
+}
+
 @Observable
 final class GameModel {
     var players: [Player] = [] {
@@ -127,10 +168,15 @@ final class GameModel {
     var isSetupComplete: Bool = false {
         didSet { save() }
     }
+    /// Per-category VP config for trade goods. Keyed by ScoreCategory.rawValue.
+    var tradeVPConfigs: [String: TradeVPConfig] = [:] {
+        didSet { save() }
+    }
 
-    private let saveKey = "SixSojournsGameState"
+    private let saveKey: String
 
-    init() {
+    init(saveKey: String = "SixSojournsGameState") {
+        self.saveKey = saveKey
         load()
     }
 
@@ -139,14 +185,43 @@ final class GameModel {
         isSetupComplete = true
     }
 
+    /// Adjust the number of players while preserving existing scores.
+    /// New players get default names; removed players are trimmed from the end.
+    func setPlayerCount(_ count: Int) {
+        let clamped = max(1, min(4, count))
+        if clamped > players.count {
+            for i in players.count..<clamped {
+                players.append(Player(name: "Player \(i + 1)"))
+            }
+        } else if clamped < players.count {
+            players = Array(players.prefix(clamped))
+        }
+    }
+
+    /// Compute total VP for a player using the configured trade VP values.
+    func totalVP(for player: Player) -> Int {
+        ScoreCategory.allCases.map { cat in
+            player.victoryPoints(for: cat, config: tradeVPConfig(for: cat))
+        }.reduce(0, +)
+    }
+
+    func tradeVPConfig(for category: ScoreCategory) -> TradeVPConfig {
+        tradeVPConfigs[category.rawValue] ?? category.defaultTradeVPConfig
+    }
+
+    func setTradeVPConfig(_ config: TradeVPConfig, for category: ScoreCategory) {
+        tradeVPConfigs[category.rawValue] = config
+    }
+
     func updateRawInput(playerIndex: Int, category: ScoreCategory, value: Int) {
         guard playerIndex < players.count else { return }
         players[playerIndex].setRawInput(value, for: category)
     }
 
     func resetGame() {
-        players = []
-        isSetupComplete = false
+        let count = max(players.count, 2)
+        let names = (1...4).map { "Player \($0)" }
+        players = (0..<count).map { Player(name: names[$0]) }
     }
 
     // MARK: Persistence
@@ -154,11 +229,12 @@ final class GameModel {
     private struct SavedState: Codable {
         var players: [Player]
         var isSetupComplete: Bool
+        var tradeVPConfigs: [String: TradeVPConfig]?
     }
 
     private func save() {
         guard let data = try? JSONEncoder().encode(
-            SavedState(players: players, isSetupComplete: isSetupComplete)
+            SavedState(players: players, isSetupComplete: isSetupComplete, tradeVPConfigs: tradeVPConfigs)
         ) else { return }
         UserDefaults.standard.set(data, forKey: saveKey)
     }
@@ -170,5 +246,6 @@ final class GameModel {
         else { return }
         players = state.players
         isSetupComplete = state.isSetupComplete
+        tradeVPConfigs = state.tradeVPConfigs ?? [:]
     }
 }
